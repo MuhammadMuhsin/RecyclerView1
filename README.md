@@ -2,8 +2,8 @@
 
 
 >###Screenshot
->![Screeshoot](https://github.com/MuhammadMuhsin/RecyclerView1/blob/master/RecyclerView1-1.png)
->![Screeshoot](https://github.com/MuhammadMuhsin/RecyclerView1/blob/master/RecyclerView1-2.png)
+>![Screeshoot](https://github.com/MuhammadMuhsin/RecyclerView1/blob/master/RecyclerView1-1.PNG)
+>![Screeshoot](https://github.com/MuhammadMuhsin/RecyclerView1/blob/master/RecyclerView1-2.PNG)
 
 Nama : Muhammad Muhsin
 
